@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DoubleClickAndMoveImage</string>
+    <string name="double_click">Double click on a color image</string>
+</resources>
